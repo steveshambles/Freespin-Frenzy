@@ -1,5 +1,6 @@
 # Freespin-Frenzy
 A Python Tkinter slot machine with freespins, bonuses and holds.
+
 Tested on Windows 7 and Linux Mint 19.1
 
 ---------------------------
