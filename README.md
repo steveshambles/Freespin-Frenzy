@@ -4,7 +4,7 @@ A Python Tkinter slot machine with freespins, bonuses and holds.
 Tested on Windows 7 and Linux Mint 19.1
 
 ---------------------------
-Freespin Frenzy V0.79
+Freespin Frenzy
 
 By Steve Shambles May 2020.
 
