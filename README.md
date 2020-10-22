@@ -22,7 +22,7 @@ Note: V0.79, V0.80 have out of memory errors after playing for a while, trying t
 
 but I don't have a clue how. Anyone willing to fork and fix is welcome.
 
-I wouldalso love to be able to "spin" the reels, like a real slot machine,
+I would also love to be able to "spin" the reels, like a real slot machine,
 
 but again, I have no idea how to do this.
 
