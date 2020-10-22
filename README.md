@@ -7,8 +7,6 @@ Tested on Windows 7 and Linux Mint 19.1
 Freespin Frenzy
 
 By Steve Shambles May 2020.
-
-Work in progress.
 ---------------------------
 pip3 install SoundFile
 
