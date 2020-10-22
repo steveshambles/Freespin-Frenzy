@@ -22,5 +22,5 @@ https://stevepython.wordpress.com/2020/05/17/gui-slots-v0-79-update
 
 Note: V0.79, V0.80 have out of memory errors after playing for a while, trying to fix,
 
-but I don't have a clue how. Anyonewillg to fork and fix is welcome.
+but I don't have a clue how. Anyone willing to fork and fix is welcome.
 
